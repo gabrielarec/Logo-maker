@@ -12,6 +12,7 @@ Logo Maker is a node.js command-line application that takes the user input to ge
 - [Contributions](#contributions)
 - [Testing](#testing)
 - [Questions](#questions)
+- [Images](#images)
 ***
 
 ## Installation
@@ -33,12 +34,17 @@ At this time I'm not accepting any contributions.
 
 ### Testing
 Please click the following link to see how the app works and how it creates a logo. 
-***
+https://drive.google.com/file/d/1qeYjGU_GZalOrH1h6WMVMBFsM5A3gLiu/preview" 
 
 ### Questions
 
 If you have any questions about the project please send me an email at mgabriela.recinos@gmail.com
 ***
+
+### Images
+![image](/images/triangle.png)
+![image](/images/Screenshot%202023-05-24%20224103.png)
+![image](/images/circle.png)
 
 
 
